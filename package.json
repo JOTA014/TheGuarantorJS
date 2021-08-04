@@ -1,0 +1,17 @@
+{
+  "name": "theguarantorschallengejs",
+  "version": "1.0.0",
+  "description": "theguarantorschallengejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "pactum": "^3.0.17"
+  },
+  "dependencies": {
+    "mocha": "^9.0.3"
+  }
+}
